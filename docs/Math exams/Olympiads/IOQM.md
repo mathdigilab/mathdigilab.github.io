@@ -30,10 +30,13 @@ The Mathematical Olympiad Programme in India, which leads to the participation o
 
 | Registration of centres and their students | 8 Aug - 8 Sep 2022 |
 | :---: | :---: |
-| Registration for:
-    - 1. Open / Home schooling students.
-    - 2. Those students whose schools are not registered as centres.
-    - 3. Overseas students studying in Indian School. | 9 Spe - 15 Sep 2022 |
+| Registration for: | |
+| :---: | :---: |
+|    - 1. Open / Home schooling students. | |
+| :---: | :---: |
+|    - 2. Those students whose schools are not registered as centres. | 9 Spe - 15 Sep 2022 |
+| :---: | :---: |
+|    - 3. Overseas students studying in Indian School. | |
 | :---: | :---: |
 | Date of Examination | 30 Oct 2022 |
 | :---: | :---: |
