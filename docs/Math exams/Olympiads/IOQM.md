@@ -26,6 +26,18 @@ This is an exam for upto class XII students who wish to participate in math olym
 The Mathematical Olympiad Programme in India, which leads to the participation of Indian students in the International Mathematical Olympiad (IMO) is organized by the Homi Bhabha Centre for Science Education (HBCSE) on behalf of the National Board for Higher Mathematics (NBHM) of the Department of Atomic Energy (DAE), Government of India. This programme is one of the major initiatives undertaken by the NBHM. Its main purpose is to spot mathematical talent among pre-university students in the country.
 
 ---
+## Important Dates for IOQM 2023
+
+| Registration of centres and their students | 8 Aug - 8 Sep 2022 |
+| :---: | :---: |
+| Registration for:
+    - 1. Open / Home schooling students.
+    - 2. Those students whose schools are not registered as centres.
+    - 3. Overseas students studying in Indian School. | 9 Spe - 15 Sep 2022 |
+| :---: | :---: |
+| Date of Examination | 30 Oct 2022 |
+| :---: | :---: |
+| Time of Examination | 10:00 AM - 1:00 PM |
 
 ## Announcement of the stages of selection for the 2022-2023 cycle
 > Updated on: August 8, 2022
@@ -53,11 +65,11 @@ Indian National Mathematical Olympiad (INMO)
 
 #### Eligibility and selection criteria
 
-The eligibility criteria for IOQM and the selection criteria for INMO from IOQM are here.
+The eligibility criteria for IOQM and the selection criteria for INMO from IOQM are [here](eligibility.pdf).
 
 The selection criteria for IMOTC from INMO will be published at a later date.
 
 ### Enrollment for IOQM 2022-23
 
-Please visit https://emsecure.in/MTAEXAM to register and enroll for the Indian Olympiad Qualifier in Mathematics (IOQM). The enrollment fee is INR 200. 
+Please visit [https://emsecure.in/MTAEXAM](https://emsecure.in/MTAEXAM) to register and enroll for the Indian Olympiad Qualifier in Mathematics (IOQM). The enrollment fee is INR 200. 
 
