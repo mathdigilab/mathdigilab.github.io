@@ -23,6 +23,11 @@ permalink: /
 
 ---
 
+{: .important }
+> mathdigilab is being deprecated and will be merged with my personal website shreyaskali.github.io
+>
+> The new website will contain more resources and preparation guides for PG entrances covering all subjects of my interest: Mathematics, Statistics, Computer Science and Machine Learning. Please visit https://shreyaskali.github.io.
+
 ### What you get on <b>Mathdigilab</b>?
 
 - Math resources (Academic & recreational Books, Magazines, links to useful websites and youtube channels).
