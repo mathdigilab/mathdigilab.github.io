@@ -24,9 +24,7 @@ permalink: /
 ---
 
 
-> **mathdigilab** is being deprecated and will be merged with my personal website **shreyaskali.github.io**
->
-> The new website will contain more resources and preparation guides for PG entrances covering all subjects of my interest: Mathematics, Statistics, Computer Science and Machine Learning. Please visit [https://shreyaskali.github.io](https://shreyaskali.github.io).
+> **Mathdigilab** is being restructured and will be served specifically for Math Exams and Resources. I Recommend trying out Collaborative learning sessions and mock tests on [Clay Learn](https://claylearn.tech)
 {: .bg-grey-lt-000 .p-6 }
 
 ---
@@ -35,7 +33,7 @@ permalink: /
 
 - Math resources (Academic & recreational Books, Magazines, links to useful websites and youtube channels).
 - Guides to Math competitions & entrance exams along with recommended course structures, resources, collaborative learning sessions & mock tests.
-- Weekly puzzles & problems to discover the joy of mathematics. (coming soon...)
+- Timely updates for all the upcoming math competitions & entrance exams.
 {: .bg-grey-lt-000 .p-6 }
 
 ---
@@ -43,10 +41,7 @@ permalink: /
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
-- IOQM page added [here](https://mathdigilab.github.io/docs/math-exams/ioqm). Mock tests and preparation strategies coming soon...
-- CMI UG 2022 paper (official) available [here](https://mathdigilab.github.io/docs/math-exams/cmi).
-- ISI 2022 UGA/UGB Paper updated! Checkout [here](https://mathdigilab.github.io/docs/math-exams/isi). 
-- Added the latest issues of CURX Mathematicorum and Mathematical reflections. Checkout the [Magazines](https://mathdigilab.github.io/docs/resources/magazines) page.
+- Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [Clay Learn](https://claylearn.tech)
 {: .bg-grey-lt-000 .p-6 }
 
 ---
@@ -54,28 +49,24 @@ permalink: /
 #### Annoucements
 {: .fs-4 }
 
-- Added Olympiad section soon for IOQM preperation.
-- Congrats everyone who got selected for ISI BMath / BStat or CMI 2022. For those who didn't better luck next time. Make full utilization of all the resources available on this website and participate in the upcoming mock tests & collaborative learning session.
+- ISI Answer key challenge is now open!
+- Tentative solutions for ISI 2023 are now available.
+- Detailed solutions for CMI 2023 are now available.
 
 ---
 
-## Math competitions & Entrance exams
+## Learn
+[College Math](https://mathdigilab.github.io/docs/college-math) includes more abstract concepts and variety of topics such as Linear Algebra, Multivariable Calculus, Real analysis, Vector Algebra, Odinary differential equations, etc. Discover your interests and you can also access my [Notes](https://mathdigilab.github.io/docs/higher-mathematics/notes)!
+
+---
+
+## Prepare
 Find all the strategies and get to know about different [Math competitions & entrance exams](https://mathdigilab.github.io/docs/math-exams) along with recommended course structures, resources, collaborative learning sessions & mock tests.
-
----
-
-## Let's Enjoy Math!
-Large number of people don't like math but here are some great puzzles, videos and links to all such Youtube channels, websites that believe Math is the most enjoyable subject. So, [Let's enjoy math!](https://mathdigilab.github.io/docs/lets-enjoy-math).
 
 ---
 
 ## Resources
 [Resources](https://mathdigilab.github.io/docs/resources) include books, lecture notes and digital platforms to learn mathematics.
-
----
-
-## College Math
-[College Math](https://mathdigilab.github.io/docs/college-math) includes more abstract concepts and variety of topics such as Linear Algebra, Multivariable Calculus, Real analysis, Vector Algebra, Odinary differential equations, etc. Discover your interests and you can also access my [Notes](https://mathdigilab.github.io/docs/higher-mathematics/notes)!
 
 ---
 
@@ -89,7 +80,7 @@ Welcome to all contributors of this project. You can mail me you favourite probl
 ## Payment option
 Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
 
-**UPI Address: mathdigilab@dbs**
+**UPI Address: shreyaskali@okaxis**
 {: .bg-grey-lt-000 .p-6 }
 
 ---
@@ -97,5 +88,5 @@ Payment must be sent to the UPI address given below. Please send me an email wit
 ## Contributors
 
 - **Shreyas Kali** <br>
-Contact: mathdigilab@gmail.com <br> Copyright &copy; 2021-2022 Mathdigilab.
+Contact: mathdigilab@gmail.com <br> Copyright &copy; 2021-2023 Mathdigilab.
 {: .bg-grey-lt-000 .p-6 }
