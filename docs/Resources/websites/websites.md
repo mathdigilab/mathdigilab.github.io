@@ -15,12 +15,42 @@ These are some of the great websites to enjoy mathematics!
 
 ---
 
-| [Brilliant](https://brilliant.org) | [Map of Mathematics](https://mathmap.quantamagazine.org/map/) |
-| :---: | :---: |
-| [**My Pi Day**](https://mypiday.com) | [**Overleaf**](https://www.overleaf.com) |
-| :---: | :---: |
-| [**Desmos**](https://desmos.com) | [**Math3d**](https://math3d.org) |
-| :---: | :---: |
-| [**MIT Opencourseware**](https://ocw.mit.edu/courses/mathematics) | [**AOPS Online**](https://artofproblemsolving.com/community/c13_contests) |
+## Table of contents
+{: .no_toc .text-delta }
 
-adding more soon...
+1. TOC
+{:toc}
+
+---
+
+## Learning
+- [MIT Opencourseware](https://ocw.mit.edu/courses/mathematics)
+- [AOPS Online](https://artofproblemsolving.com/community/c13_contests)
+- [Brilliant](https://brilliant.org)
+
+## Tools
+
+- [Wolfram Alpha](https://www.wolframalpha.com)
+- [Symbolab](https://www.symbolab.com)
+- [Desmos](https://www.desmos.com)
+- [GeoGebra](https://www.geogebra.org)
+- [Math3d](https://math3d.org)
+- [Overleaf](https://www.overleaf.com)
+- [Mathpix](https://mathpix.com)
+
+## Fun
+
+- [Map of Mathematics](https://mathmap.quantamagazine.org/map/)
+- [My Pi Day](https://mypiday.com)
+- [3Blue1Brown](https://www.3blue1brown.com)
+- [Numberphile](https://www.numberphile.com)
+- [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
+- [Standupmaths](https://www.youtube.com/user/standupmaths)
+
+## Blogs
+
+- [Quanta Magazine](https://www.quantamagazine.org/tag/mathematics)
+- [Math with Bad Drawings](https://mathwithbaddrawings.com)
+- [Math ∩ Programming](https://jeremykun.com)
+
+
