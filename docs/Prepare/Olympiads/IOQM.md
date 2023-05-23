@@ -1,10 +1,10 @@
 ---
 layout: default
-title: IOQM
+title: Olympiads
 has_children: false
 has_toc: false
 parent: Math exams
-permalink: docs/math-exams/ioqm
+permalink: docs/math-exams/Olympiads
 ---
 
 # IOQM

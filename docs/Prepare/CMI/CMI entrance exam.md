@@ -28,7 +28,7 @@ CMI offers two programmes at the undergraduate level, BSc. Mathematics & Compute
 ---
 
 ## CMI UG 2023 Solutions
-Detailed solutions for CMI UG 2023 are now available. [CMI UG 2023 Solutions](cmi-ug-2023-solutions.pdf)
+Detailed solutions for CMI UG 2023 are now available. [CMI UG 2023 Solutions](ugmath2023-solutions.pdf)
 
 ## About the programme
 [Brochure 2022](cmi-brochure-2022.pdf)
@@ -114,6 +114,10 @@ You can find all previous year questions here (from the official website):
 
 | Question Paper | Solutions |
 | :---: | :---: |
+| [UG 2023](ugmath2023.pdf) | [UG 2023 solutions](ugmath2023-solutions.pdf) |
+| :---: | :---: |
+| [UG 2022](ugmath2022.pdf) | [UG 2022 solutions](ugmath2022-solutions.pdf) |
+| :---: | :---: |
 | [UG 2021](ugmath2021.pdf) | [UG 2021 solutions](ugmath2021-solutions.pdf) |
 | :---: | :---: |
 | [UG 2020](ugmath2020.pdf) | [UG 2020 solutions](ugmath2020-solutions.pdf) |
@@ -193,13 +197,5 @@ Acceptance offers are sent to around 90 candidates and about half of them enroll
 2018 | 5000 | 95 | 48
 2019 | 5500 | 100 | 61
 
-
-## Collaborative learning sessions
-These sessions aim at collaborative learning for CMI entrance exam. We will discuss theory as well as practice questions together via online meets. Please mail me along with a screenshot of one time joining fee of Rs. 499.
-
-### Payment option
-Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
-
-**UPI Address: shreyaskali@okaxis**
 
 For more updates regarding the exam schedule and registration, check out the official [CMI website](https://cmi.ac.in).
