@@ -24,7 +24,7 @@ permalink: /
 ---
 
 
-> **Mathdigilab** is being restructured and will be served specifically for Math Exams and Resources. I Recommend trying out Collaborative learning sessions and mock tests on [Clay Learn](https://claylearn.tech)
+> **Mathdigilab** is being restructured and will be served specifically for Math Exams and Resources. I Recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech)
 {: .bg-grey-lt-000 .p-6 }
 
 ---
@@ -41,7 +41,7 @@ permalink: /
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
-- Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [Clay Learn](https://claylearn.tech)
+- Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech)
 {: .bg-grey-lt-000 .p-6 }
 
 ---
