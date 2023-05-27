@@ -16,7 +16,9 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 </script>--->
 
 <!---default = light theme--->
--<button class="btn js-toggle-dark-mode">◑</button>
+<div style="display:flex; height:30px;">
+  <button class="btn js-toggle-dark-mode">◑</button>
+</div>
 
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
@@ -30,4 +32,4 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
     toggleDarkMode.textContent = '◐';
   }
 });
-</script>-
+</script>
