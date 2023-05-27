@@ -42,7 +42,10 @@ permalink: /
 {: .fs-4 }
 
 - Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech)
-{: .bg-grey-lt-000 .p-6 }
+{% if jtd.getTheme() === 'light' %}
+   {: .bg-grey-lt-000 .p-6 }
+{% else %}
+   {: .bg-grey-dk-300 .p-6 }
 
 ---
 
