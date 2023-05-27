@@ -25,7 +25,6 @@ permalink: /
 
 
 > **Mathdigilab** is being restructured and will be served specifically for Math Exams and Resources. I Recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech)
-{: .bg-grey-lt-000 .p-6 }
 
 ---
 
@@ -34,7 +33,6 @@ permalink: /
 - Math resources (Academic & recreational Books, Magazines, links to useful websites and youtube channels).
 - Guides to Math competitions & entrance exams along with recommended course structures, resources, collaborative learning sessions & mock tests.
 - Timely updates for all the upcoming math competitions & entrance exams.
-{: .bg-grey-lt-000 .p-6 }
 
 ---
 
@@ -42,10 +40,6 @@ permalink: /
 {: .fs-4 }
 
 - Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech)
-{% if jtd.getTheme() === 'light' %}
-   {: .bg-grey-lt-000 .p-6 }
-{% else %}
-   {: .bg-grey-dk-300 .p-6 }
 
 ---
 
@@ -84,7 +78,6 @@ Welcome to all contributors of this project. You can mail me you favourite probl
 Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
 
 **UPI Address: shreyaskali@okaxis**
-{: .bg-grey-lt-000 .p-6 }
 
 ---
 
