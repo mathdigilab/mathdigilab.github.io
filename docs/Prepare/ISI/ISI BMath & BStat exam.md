@@ -20,19 +20,9 @@ ISI offers two programmes at the undergraduate level, BMath at ISI Bangalore & B
 {:toc}
 
 ---
-## ISI UGA/UGB 2022 
+## ISI 2023 Answer Key
 
-### Question Paper
-
-| UGA | UGB |
-| :---: | :---: |
-| [2022](Isi2022_uga.pdf) | [2022](Isi2022_ugb.pdf) |
-
-### Solutions
-Check out video solutions [here](https://youtube.com/playlist?list=PLjF2DElqz-GQzBc-I_DG7Brjgy-Q9MLUu)
-
-### Answer key challenge
-Answer key challenge is now open! [Answer key challenge](https://isical.ucanapply.com/univer/public/secure?app_id=UElZMDAwMDAzMw==)
+Official answer key for ISI Admission test 2023 is released. You can download it here: [Final Answer Key ISI  Admission 2023](FINAL-ANSWER-KEY-ISI-ADMISSION-2023.pdf)
 
 ## About the programme
 [Brochure 2022](brochure_0.pdf)
@@ -80,6 +70,8 @@ You can find all previous year questions here (from the official website):
 ### Question papers
 
 | UGA (Objective Paper) | UGB (Subjective Paper) |
+| :---: | :---: |
+| [2022](Isi2022_uga.pdf) | [2022](Isi2022_ugb.pdf) |
 | :---: | :---: |
 | [2021](BStat-BMath-UGA-2021.pdf) | [2021](BStat-BMath-UGB-2021.pdf) |
 | :---: | :---: |

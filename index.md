@@ -39,16 +39,15 @@ permalink: /
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
-- Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech)
+- Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech) (to be launched soon!).
 
 ---
 
 #### Annoucements
 {: .fs-4 }
 
-- ISI Answer key challenge is now open!
-- Tentative solutions for ISI 2023 are now available.
-- Detailed solutions for CMI 2023 are now available.
+- ISI Answer key 2023 released! Check it out on [ISI](https://mathdigilab.github.io/docs/math-exams/isi) page.
+- Mathematics Olympiad Program 2023-24 announced! Check it out on [Math Olympiad](https://mathdigilab.github.io/docs/math-exams/math-olympiad) page.
 
 ---
 
@@ -84,5 +83,4 @@ Payment must be sent to the UPI address given below. Please send me an email wit
 ## Contributors
 
 - **Shreyas Kali** <br>
-Contact: mathdigilab@gmail.com <br> Copyright &copy; 2021-2023 Mathdigilab.
-{: .bg-grey-lt-000 .p-6 }
+> Contact: mathdigilab@gmail.com <br> Copyright &copy; 2021-2023 Mathdigilab.
