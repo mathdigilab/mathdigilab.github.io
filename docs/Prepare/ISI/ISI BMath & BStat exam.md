@@ -20,6 +20,10 @@ ISI offers two programmes at the undergraduate level, BMath at ISI Bangalore & B
 {:toc}
 
 ---
+
+## Interview list
+Interview list for almost all the programmes is out. Check it out here: [Interview Schedule](https://www.isical.ac.in/~admission/Interview-List.html)
+
 ## ISI 2023 Answer Key
 
 Official answer key for ISI Admission test 2023 is released. You can download it here: [Final Answer Key ISI  Admission 2023](FINAL-ANSWER-KEY-ISI-ADMISSION-2023.pdf)

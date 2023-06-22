@@ -46,7 +46,8 @@ permalink: /
 #### Annoucements
 {: .fs-4 }
 
-- ISI Answer key 2023 released! Check it out on [ISI](https://mathdigilab.github.io/docs/math-exams/isi) page.
+- CMI 2023 Results announced! Check it out on [CMI](https://mathdigilab.github.io/docs/math-exams/cmi) page.
+- Interview list for almost all the programmes is out. Final Merit Lists to be out soon! Check it out on [ISI](https://mathdigilab.github.io/docs/math-exams/isi) page.
 - Mathematics Olympiad Program 2023-24 announced! Check it out on [Math Olympiad](https://mathdigilab.github.io/docs/math-exams/math-olympiad) page.
 
 ---
