@@ -27,11 +27,14 @@ LeetCode is a platform to practice coding problems. It has a huge collection of 
 
 ### Arrays
 
-- [Two Sum](https://leetcode.com/problems/two-sum/)
-- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+| Problem | Difficulty | Solution | Notes |
+| :---: | :---: | :---: | :---: |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+
 
 ### Strings
-// make a table and label the difficulty level of each problem
 
 | Problem | Difficulty | Solution | Notes | 
 | :---: | :---: | :---: | :---: |
@@ -43,21 +46,13 @@ LeetCode is a platform to practice coding problems. It has a huge collection of 
 
 ### Linked List
 
-// html code for minimizing details of a card
-
-<details>
-    **Reverse Linked List**
-    [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-  <summary>Solution</summary>
-    [Solution](https://youtu.be/7XmS8McW_1U)
-</details>
-
-<details>
-    **Middle of the Linked List**
-    [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-  <summary>Solution</summary>
-    [Solution](https://youtu.be/7XmS8McW_1U)
-</details>
+| Problem | Difficulty | Solution | Notes |
+| :---: | :---: | :---: | :---: |
+| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
 
 ---
 
