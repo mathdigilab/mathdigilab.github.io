@@ -53,7 +53,7 @@ permalink: /
 ---
 
 ## Learn
-[College Math](https://mathdigilab.github.io/docs/college-math) includes more abstract concepts and variety of topics such as Linear Algebra, Multivariable Calculus, Real analysis, Vector Algebra, Odinary differential equations, etc. Discover your interests and you can also access my [Notes](https://mathdigilab.github.io/docs/higher-mathematics/notes)!
+Undergoing a big change! Planning to launch soon. Stay tuned!
 
 ---
 
