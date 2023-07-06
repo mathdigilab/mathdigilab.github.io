@@ -4,7 +4,7 @@ title: Quant Finance
 has_children: false
 parent: Learn
 nav_order: 3
-permalink: docs/quant-finance
+permalink: docs/learn/quant-finance
 ---
 
 # Quant Finance

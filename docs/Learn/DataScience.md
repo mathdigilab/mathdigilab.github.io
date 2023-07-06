@@ -4,7 +4,7 @@ title: Data Science
 has_children: false
 parent: Learn
 nav_order: 1
-permalink: docs/data-science
+permalink: docs/learn/data-science
 ---
 
 # Data Science
