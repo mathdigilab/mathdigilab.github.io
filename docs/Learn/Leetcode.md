@@ -57,6 +57,32 @@ LeetCode is a platform to practice coding problems. It has a huge collection of 
 ---
 
 
+<details>
+<summary>Arrays</summary>
+<br>
+
+| Problem | Difficulty | Solution | Notes |
+| :---: | :---: | :---: | :---: |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+
+</details>
+
+<details>
+<summary>Arrays</summary>
+<br>
+
+| Problem | Difficulty | Solution | Notes |
+| :---: | :---: | :---: | :---: |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Solution](https://youtu.be/7XmS8McW_1U) | |
+
+</details>
+
+
+
 
 
 
