@@ -2,7 +2,7 @@
 layout: default
 title: Computer Science
 has_children: false
-Parent: Self Learn
+parent: Self Learn
 nav_order: 1
 permalink: docs/self-learn/cs
 ---
