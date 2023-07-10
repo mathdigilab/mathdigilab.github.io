@@ -18,17 +18,16 @@ Contributing to Mathdigilab contributes to the idea of spreading mathematics. We
 
 > ```Top contributors will get their name added on this website and recurring contributors will get access to ebooks/ giveaways!```
 
-Even a contribution of as low as 1$ motivates me alot. Thanks for contributing!
+Thanks for contributing!
 
 ---
 
 ## Payment option
-Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID.
-### UPI ID: mathdigilab@dbs
-
-<br><a href="https://www.buymeacoffee.com/mathdigilab"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mathdigilab&button_colour=7464dc&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+Payment can be sent through RazonPay! Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID.
 
 Thanks for contributing!
+
+---
 
 
 

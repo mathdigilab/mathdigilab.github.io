@@ -2,15 +2,15 @@
 layout: default
 title: Data Science
 has_children: false
-parent: Learn
-nav_order: 1
-permalink: docs/learn/data-science
+parent: SelfLearn
+nav_order: 2
+permalink: docs/self-learn/data-science
 ---
 
 # Data Science
 {: .no_toc }
 
-Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. It is a highly sought after field in the industry and is a great career option for math enthusiasts.
+Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. It is a highly sought after field in the industry and is a great career option for Statistics enthusiasts.
 
 {: .fs-5 .fw-300 }
 
