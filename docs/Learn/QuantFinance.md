@@ -2,7 +2,7 @@
 layout: default
 title: Quant Finance
 has_children: false
-parent: SelfLearn
+parent: Self Learn
 nav_order: 3
 permalink: docs/self-learn/quant-finance
 ---

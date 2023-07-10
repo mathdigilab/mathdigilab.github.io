@@ -2,7 +2,7 @@
 layout: default
 title: Data Science
 has_children: false
-parent: SelfLearn
+parent: Self Learn
 nav_order: 2
 permalink: docs/self-learn/data-science
 ---
