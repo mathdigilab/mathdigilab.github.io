@@ -2,8 +2,9 @@
 layout: default
 title: Math exams
 has_children: true
+parent: Prepare
 nav_order: 2
-permalink: docs/math-exams
+permalink: docs/prepare/math-exams
 ---
 
 # Math Competition & exams

@@ -1,12 +1,13 @@
 ---
 layout: default
-title: LeetCode
+title: Coding Interviews
 has_children: false
-nav_order: 3
-permalink: docs/leetcode
+parent: Prepare
+nav_order: 1
+permalink: docs/prepare/coding-interviews
 ---
 
-# LeetCode
+# Coding Interviews
 {: .no_toc }
 
 LeetCode is a platform to practice coding problems. It has a huge collection of problems asked in various coding interviews. It is a great place to practice coding problems and get familiar with the topics in data structures and algorithms.
