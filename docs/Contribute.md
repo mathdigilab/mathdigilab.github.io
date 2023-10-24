@@ -23,7 +23,7 @@ Thanks for contributing!
 ---
 
 ## Payment option
-Payment can be sent through RazonPay! Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID.
+Payment can be sent through UPI! Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID.
 
 Thanks for contributing!
 

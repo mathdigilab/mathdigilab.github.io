@@ -39,7 +39,8 @@ permalink: /
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
-- Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech) (to be launched soon!).
+- Added new segment. Checkout [Investments](https://mathdigilab.github.io/docs/self-learn/investments) page.
+- Planning to add more resources & guides on Quant Finance. Keep checking [Quant Finance](https://mathdigilab.github.io/docs/self-learn/quant-finance) page.
 
 ---
 

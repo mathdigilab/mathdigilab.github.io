@@ -19,6 +19,7 @@ Learning is useless until its linked with practice and aligned with your goals a
 - [Competitive Programming](https://mathdigilab.github.io/docs/learn/competitive-programming)
 - [Quantum Computing](https://mathdigilab.github.io/docs/learn/quantum-computing)
 - [Quant Finance](https://mathdigilab.github.io/docs/learn/quant-finance)
+- [Investing]
 -->
 
 
