@@ -27,6 +27,12 @@ CMI offers two programmes at the undergraduate level, BSc. Mathematics & Compute
 
 ---
 
+## CMI UG 2024
+
+The entrance exam for 2024–25 admissions will be held on Sunday, 19 May, 2024 at 14:00.
+
+Applications for 2024–25 admissions will open around 1 March, 2024. Further details will be announced by February, 2024.
+
 ## CMI Results 2023
 CMI UG 2023 Results are out! Check it out [here](https://www.cmi.ac.in/admissions/entrance-results-2023.php) official website.
 

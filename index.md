@@ -24,7 +24,7 @@ permalink: /
 ---
 
 
-> **Mathdigilab** is being restructured and will be served specifically for Math Exams and Resources. I Recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech)
+> **Mathdigilab** is being restructured and will be served specifically for Career Guides, Math Exams and Resources. I Recommend exploring various areas of mathematics and appreciate its applicabity in Computer science, Data Science, & Quantitative Finance. 
 
 ---
 
@@ -46,7 +46,7 @@ permalink: /
 #### Annoucements
 {: .fs-4 }
 
-- CMI 2023 Results announced! Check it out on [CMI](https://mathdigilab.github.io/docs/math-exams/cmi) page.
+- CMI 2024 dates announced! Check it out on [CMI](https://mathdigilab.github.io/docs/math-exams/cmi) page.
 - Interview list for almost all the programmes is out. Final Merit Lists to be out soon! Check it out on [ISI](https://mathdigilab.github.io/docs/math-exams/isi) page.
 - Mathematics Olympiad Program 2023-24 announced! Check it out on [Math Olympiad](https://mathdigilab.github.io/docs/math-exams/math-olympiad) page.
 
