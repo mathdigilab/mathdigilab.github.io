@@ -32,15 +32,15 @@ permalink: /
 
 - Math resources (Academic & recreational Books, Magazines, links to useful websites and youtube channels).
 - Guides to Math competitions & entrance exams along with recommended course structures, resources, collaborative learning sessions & mock tests.
-- Timely updates for all the upcoming math competitions & entrance exams.
+- Exploratory guides for various core and applied math field such as Data Science, AI & Machine Learning, Competitive Programming, Quantum Computing, Quantitative Finance, Investing, etc.
 
 ---
 
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
-- Added new segment. Checkout [Investments](https://mathdigilab.github.io/docs/self-learn/investments) page.
-- Planning to add more resources & guides on Quant Finance. Keep checking [Quant Finance](https://mathdigilab.github.io/docs/self-learn/quant-finance) page.
+- Launched a new segment. Checkout [Investments](https://mathdigilab.github.io/docs/self-learn/investments) page. Must read for everyone!
+- Launched a new segment. Checkout [Quant Finance](https://mathdigilab.github.io/docs/self-learn/quant-finance) page.
 
 ---
 
@@ -54,7 +54,8 @@ permalink: /
 ---
 
 ## Learn
-Undergoing a big change! Planning to launch soon. Stay tuned!
+
+[Learn](https://mathdigilab.github.io/docs/learn) is the place for self-learners who want to learn something new and exciting in our mathematical world!
 
 ---
 
@@ -67,18 +68,22 @@ Find all the strategies and get to know about different [Math competitions & ent
 [Resources](https://mathdigilab.github.io/docs/resources) include books, lecture notes and digital platforms to learn mathematics.
 
 ---
+## About
+[About](https://mathdigilab.github.io/docs/about) me and this website.
+
+---
 
 ## Contribute
 Welcome to all contributors of this project. You can mail me you favourite problems / give suggestions on any part of this website. When contributing to Mathdigilab, you contribute to the creators of this website and we reach a step further to promote mathematics in an enjoying way.
 
-[Become a contributor to Mathdigilab](https://mathdigilab.github.io/docs/contribute) & top contributors every 3 months get their name listed below. Recurring contributors get access to Ebooks & giveaways!
+Become a contributor to Mathdigilab & top contributors every 3 months get their name listed below. Recurring contributors get access to Ebooks & giveaways!
 
 ---
 
 ## Payment option
 Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
 
-**UPI Address: shreyaskali@okaxis**
+**UPI Address: shreyaskali-2@okaxis**
 
 ---
 

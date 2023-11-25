@@ -62,14 +62,13 @@ One of the best courses I completed myself if [MIT 18.S096 - Topics in Mathemati
 
 Build a strong foundation in probability and statistics. I recommend [Harvard's Stat 110](https://projects.iq.harvard.edu/stat110/home) and Sheldon Ross's [A First Course in Probability](https://www.amazon.in/First-Course-Probability-9th/dp/9332543515). Also, learn about stochastic processes and time series analysis. 
 
-You can explore [Probability & Statistics with R](https://www.isibang.ac.in/~athreya/Teaching/PaSwR/) by Dr. Siva Athreya. Its intended for M.Sc. Data Science students
-at CMI. Don't forget to explore [Introduction to Stochastic Processes](https://sites.google.com/view/parthanilroy/home/teaching/stoch_proc/lectvs) by Dr. Parthanil Roy.
+You can explore [Probability & Statistics with R](https://www.isibang.ac.in/~athreya/Teaching/PaSwR/) by Dr. Siva Athreya. Its intended for M.Sc. Data Science students at CMI. Don't forget to explore [Introduction to Stochastic Processes](https://sites.google.com/view/parthanilroy/home/teaching/stoch_proc/lectvs) by Dr. Parthanil Roy.
 
 ### Machine Learning
 
 Learn the basics of machine learning and deep learning. I recommend [Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning) from *DeepLearning.AI*. One can take [Andrew Ng's Deeplearning Specialization](https://www.coursera.org/specializations/deep-learning) if already familiar with machine learning. If you find it too big of a commitment, then you can take [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) taught by Alexander Amini and Ava Amini. It is a great course that will introduce you to the basics of deep learning. It is a great course for beginners.
 
-### Financial Mathematics
+### Financial Mathematics, Portfolio & Risk Management
 
 One of the most difficult things for an undergrad to grasp because it deals with a lot of advanced mathematics at the level of graduate courses. I recommend finishing [MIT 18.S096 - Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/) at this level. It will revise essential math and introduce you to financial modeling. 
 
@@ -78,14 +77,13 @@ Learn about derivatives pricing and stochastic calculus. Top resources at this l
 - [David Luenberger's Investment Science](https://www.amazon.in/Investment-Science-David-G-Luenberger/dp/0199740089)
 - [Barter Rennies's Financial Calculus](https://www.amazon.in/Financial-Calculus-Introduction-Derivative-Pricing/dp/0521552893)
 
+### Options, Futures & Other Derivatives
 
-### Portfolio Management & Risk Management
+Check out Mark Meldrum's playlist on [Youtube](https://youtube.com/playlist?list=PLM9WI-4yn8BIROK_B1HCsdAlFGvAMdSJr&si=HTGmrPZ8DKe1rVXe). It is a great resource for learning derivatives. I recommend going through the book [John Hull's Options, Futures & Other Derivatives](https://amzn.to/47J8cuE) along with the course.
 
 Learn about portfolio management and risk management. I recommend going through [Caltech's Pricing Options with Mathematical Models](https://www.coursera.org/learn/pricing-options) and [Financial Engineering and Risk Management Specialization](https://www.coursera.org/learn/financial-engineering-1) by Columbia University. Going through all the courses might be a bit difficult but definitely checkout the 4th course on Advanced Topics in Derivatives Pricing. 
 
 ---
-
-> **Note:** This roadmap is not complete and will be updated. Please note that one might find better courses and resources than the ones mentioned above. If you have any suggestions, feel free to open an issue [here](@mailto:mathdigilab@gmail.com).
 
 
 
