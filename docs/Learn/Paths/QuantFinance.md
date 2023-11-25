@@ -83,6 +83,10 @@ Check out Mark Meldrum's playlist on [Youtube](https://youtube.com/playlist?list
 
 Learn about portfolio management and risk management. I recommend going through [Caltech's Pricing Options with Mathematical Models](https://www.coursera.org/learn/pricing-options) and [Financial Engineering and Risk Management Specialization](https://www.coursera.org/learn/financial-engineering-1) by Columbia University. Going through all the courses might be a bit difficult but definitely checkout the 4th course on Advanced Topics in Derivatives Pricing. 
 
+## Quantitative Research
+
+Having a good understanding of statistics and machine learning is essential for quantitative research. But nothing beats the experience of doing research yourself. I recommend cheking out [WorldQuant's BRAIN Research Platform](https://platform.worldquantbrain.com//referral/SK82858). They offer weekly research paper access and a great platform to simulate your aplha ideas. The best part is the opportunity to get monetary rewards for your research and a chance to get hired by WorldQuant.
+
 ---
 
 
