@@ -16,7 +16,8 @@ permalink: /
     <style>
       @font-face { font-family: Nibpro; src: url('assets/NibPro-LightItalic.ttf'); } 
       h1 {
-         font-family: Nibpro
+         font-family: Nibpro;
+         font-size: 30rem;
       }
     </style>
     <h1 align="center">Mathdigilab</h1>

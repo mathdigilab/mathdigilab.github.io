@@ -5,11 +5,8 @@
 
 h1,
 .text-alpha {
-  // @include fs-8;
-  font-family: Nibpro;
-  font-style: italic;
+  @include fs-8;
   font-weight: 300;
-  display: inline;
 }
 
 h2,
