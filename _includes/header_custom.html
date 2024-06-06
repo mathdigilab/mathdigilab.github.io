@@ -1,0 +1,35 @@
+<!---default = dark theme--->
+<!---<button class="btn js-toggle-dark-mode">◑</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'light') {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = '◑';
+  } else {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = '◐';
+  }
+});
+</script>--->
+
+<!---default = light theme--->
+<div style="display:flex; height:stretch; align-items:center; justify-content:space-around">
+  <button class="btn js-toggle-dark-mode">◑</button>
+</div>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = '◑';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = '◐';
+  }
+});
+</script>
