@@ -21,11 +21,12 @@ permalink: /
       }
     </style>
     <h1 align="center">Mathdigilab</h1>
+    {: .fw-700, .fs-10}
 </div>
 
 
-<h4 align="center">Explore & Learn Math</h4>
-{: .fw-600, .fs-4}
+<h4>Explore & Learn Math</h4>
+{: .fw-700, .fs-4, .text-center}
 
 ---
 
