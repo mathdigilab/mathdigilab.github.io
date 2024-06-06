@@ -38,7 +38,6 @@ permalink: /
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
-- Restructuring of Mathdigilab is going on. I recommend trying out Collaborative learning sessions and mock tests on [ClayLearn](https://claylearn.tech) (to be launched soon!).
 
 ---
 
