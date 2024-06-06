@@ -11,6 +11,15 @@ permalink: /
  <!---<p align="center">
   <img src="/assets/images/Mathdigilab-logo.svg" alt="Mathdigilab"  width="max-width" />
  </p>--->
+
+<!-- <div>
+    <style>
+      @font-face { font-family: Nibpro; src: url('assets/NibPro-LightItalic.ttf'); } 
+      h1 {
+         font-family: Nibpro
+      }
+    </style>
+</div> -->
 <h1 align="center"><strong> Mathdigilab </strong></h1>
 {: .fw-700, .fs-10}
 

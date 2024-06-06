@@ -5,12 +5,11 @@
 
 h1,
 .text-alpha {
-  @include fs-8;
+  // @include fs-8;
   font-family: Nibpro;
   font-style: italic;
   font-weight: 300;
   display: inline;
-  align-items: center
 }
 
 h2,
