@@ -17,15 +17,15 @@ permalink: /
       @font-face { font-family: Nibpro; src: url('assets/NibPro-LightItalic.ttf'); } 
       h1 {
          font-family: Nibpro;
-         font-size: 30rem;
+         font-size: 70rem;
       }
     </style>
     <h1 align="center">Mathdigilab</h1>
 </div>
 
-{: .fw-700, .fs-10}
 
 <h4 align="center">Explore & Learn Math</h4>
+{: .fw-600, .fs-4}
 
 ---
 
