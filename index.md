@@ -17,7 +17,7 @@ permalink: /
       @font-face { font-family: Nibpro; src: url('assets/NibPro-LightItalic.ttf'); } 
       h1 {
         font-family: Nibpro;
-        font-size: 70rem;
+        font-size: 50px;
         font-weight: 700;
       }
     </style>
@@ -26,7 +26,7 @@ permalink: /
 
 
 <h4>Explore & Learn Math</h4>
-{: .fw-700, .fs-4, .text-center}
+{: .fw-200, .fs-4, .text-center}
 
 ---
 
