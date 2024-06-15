@@ -52,7 +52,7 @@ permalink: /
 - CMI 2024 admissions, some result available [here](https://www.cmi.ac.in//admissions/entrance-results-2024.php).
 - ISI 2024 admissions, merit list & round 1 allocation released [here](https://www.isical.ac.in/~admission/).
 - Detailed Solution for CMI 2024 are now available! Check it out [here](https://mathdigilab.github.io/docs/math-exams/cmi).
-- Seeking contrbutors for resources, notes & problem solving. Reach out at mailto:shreyaskali@gmail.com to give your valuable suggestions.
+- Seeking contrbutors for resources, notes & problem solving. Reach out at shreyaskali@gmail.com to give your valuable suggestions.
 
 ---
 
