@@ -27,11 +27,11 @@ CMI offers two programmes at the undergraduate level, BSc. Mathematics & Compute
 
 ---
 
-## CMI Results 2023
-CMI UG 2023 Results are out! Check it out [here](https://www.cmi.ac.in/admissions/entrance-results-2023.php) official website.
+## CMI Results 2024
+CMI UG 2023 Results are out! Check it out [here](https://www.cmi.ac.in/admissions/entrance-results-2024.php) official website.
 
-## CMI UG 2023 Solutions
-Detailed solutions for CMI UG 2023 are now available. [CMI UG 2023 Solutions](ugmath2023-solutions.pdf)
+## CMI UG 2024 Solutions
+Detailed solutions for CMI UG 2023 are now available. [CMI UG 2024 Solutions (draft)](CMI-2024-BSc-draft-solutions.pdf)
 
 ## About the programme
 [Brochure 2022](cmi-brochure-2022.pdf)

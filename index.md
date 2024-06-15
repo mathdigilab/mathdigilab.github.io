@@ -49,16 +49,18 @@ permalink: /
 
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
-
+- CMI 2024 admissions, some result available [here](https://www.cmi.ac.in//admissions/entrance-results-2024.php).
+- ISI 2024 admissions, merit list & round 1 allocation released [here](https://www.isical.ac.in/~admission/).
+- Detailed Solution for CMI 2024 are now available! Check it out [here](https://mathdigilab.github.io/docs/math-exams/cmi).
+- Seeking contrbutors for resources, notes & problem solving. Reach out at mailto:shreyaskali@gmail.com to give your valuable suggestions.
 
 ---
 
-#### Annoucements
+#### Announcements
 {: .fs-4 }
 
-- CMI 2023 Results announced! Check it out on [CMI](https://mathdigilab.github.io/docs/math-exams/cmi) page.
-- Interview list for almost all the programmes is out. Final Merit Lists to be out soon! Check it out on [ISI](https://mathdigilab.github.io/docs/math-exams/isi) page.
-- Mathematics Olympiad Program 2023-24 announced! Check it out on [Math Olympiad](https://mathdigilab.github.io/docs/math-exams/math-olympiad) page.
+- **ISI 2024 Results announced!** Congratulations to all the successful candidates. You can find the results on the official [ISI](https://www.isical.ac.in/~admission/) page.
+- **CMI 2024 Results to be announced soon!** Stay tuned for the results on the official [CMI](https://www.cmi.ac.in/admissions/entrance-results-2024.php) page.
 
 ---
 
